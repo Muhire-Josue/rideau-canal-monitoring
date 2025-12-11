@@ -70,7 +70,7 @@ This project delivers a full Azure-based implementation of that workflow.
 - Free tier (8,000 msg/day)  
 
 ### Screenshot:
-![alt text](3-devices-created.png)
+![alt text](screenshots/3-devices-created.png)
 
 ### **Stream Analytics Job**
 - Input: IoT Hub  

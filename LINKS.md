@@ -1,24 +1,27 @@
 # Project Repository Links
 
 ## Student Information
-- **Name:** Muhire Josué Rutayisire
-- **Student ID:** (add here)
-- **Course:** CST8916 - Fall 2025
+**CST8916 – Final Project**  
+**Student:** *Muhire Rutayisire*  
+**Student ID:** *41193051* 
+
+---
 
 ## Repository Links
 
 ### 1. Main Documentation Repository
-- **URL:** (this repo URL)
-- **Description:** Complete project documentation, architecture, screenshots, and guides
+**URL:** https://github.com/Muhire-Josue/rideau-canal-monitoring
+Contains all documentation, architecture, screenshots, and Stream Analytics query.
 
 ### 2. Sensor Simulation Repository
-- **URL:** (to be added)
-- **Description:** IoT sensor simulator code
+**URL:** https://github.com/Muhire-Josue/rideau-canal-sensor-simulation  
+Contains the Python IoT sensor simulator.
 
 ### 3. Web Dashboard Repository
-- **URL:** (to be added)
-- **Description:** Web dashboard application
+**URL:** https://github.com/Muhire-Josue/25F_CST8916_Final_Project_Web-Dashboard  
+Includes the Node.js backend and frontend dashboard.
 
-## Demo
+---
 
-- **Video Demo:** (YouTube link to be added)
+## Video Demo
+**YouTube Link:** https://youtu.be/your-video-placeholder

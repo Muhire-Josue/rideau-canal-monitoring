@@ -12,8 +12,8 @@ This project implements an end-to-end IoT analytics pipeline for monitoring ice 
 
 ## 📌 Repository Links
 
-- **Sensor Simulation:** https://github.com/yourusername/rideau-canal-sensor-simulation  
-- **Web Dashboard:** https://github.com/yourusername/rideau-canal-dashboard  
+- **Sensor Simulation:** https://github.com/Muhire-Josue/rideau-canal-sensor-simulation  
+- **Web Dashboard:** https://github.com/Muhire-Josue/25F_CST8916_Final_Project_Web-Dashboard
 - **Video Demo:** https://youtu.be/your-video-placeholder  
 
 All required screenshots and architecture references are located in the `/screenshots` and `/architecture` folders of this repository.

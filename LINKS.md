@@ -24,4 +24,4 @@ Includes the Node.js backend and frontend dashboard.
 ---
 
 ## Video Demo
-**YouTube Link:** https://youtu.be/your-video-placeholder
+**YouTube Link:** https://youtu.be/-HIqxXKNLMk
